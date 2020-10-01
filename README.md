@@ -1,7 +1,8 @@
 __What do you think about the future of VR? [Take our survey.](https://www.surveymonkey.com/s/7LZQDKL)__
 
-
-[![LeapJS Logo](https://cloud.githubusercontent.com/assets/407497/2652512/eedfb992-bfae-11e3-8323-f202845e3fd8.png)](https://developer.leapmotion.com/leapjs/)
+repl
+[![Run on Repl.it](https://repl.it/badge/github/leapmotion/leapjs)](https://repl.it/github/leapmotion/leapjs)
+[![LeapJS Logo]repl(https://cloud.githubusercontent.com/assets/407497/2652512/eedfb992-bfae-11e3-8323-f202845e3fd8.png)](https://developer.leapmotion.com/leapjs/)
 
 Welcome to the [Leap Motion](https://www.leapmotion.com) JavaScript framework.
 
